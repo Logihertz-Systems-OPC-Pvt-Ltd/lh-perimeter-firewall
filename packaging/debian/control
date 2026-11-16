@@ -1,0 +1,9 @@
+Package: lh-perimeter-firewall
+Version: 0.1.0
+Section: utils
+Priority: optional
+Architecture: all
+Maintainer: Sameer Tawade <ops@logihertz.com>
+Homepage: https://www.logihertz.com
+Description: lh-firewall - CRS Paranoia Level Deficit & Egress Shadow Rule Invariant
+ Edge WAF and perimeter firewall policy auditor evaluating OWASP Core Rule Set (CRS) paranoia levels, nftables/iptables chains, egress filtering, and shadow rule conflicts with SARIF v2.1.0 export.
